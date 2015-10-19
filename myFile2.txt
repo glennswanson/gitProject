@@ -1,3 +1,5 @@
 second text file
 
 again, just something that is different
+
+exploring the use of the GUI
